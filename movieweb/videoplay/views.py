@@ -11,6 +11,7 @@ import string
 import hashlib
 import requests
 # 导入缓存
+
 from django.core.cache import cache
 # 导入模型
 from videoplay.models import Movie
