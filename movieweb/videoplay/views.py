@@ -19,6 +19,7 @@ from videoplay.models import User, UserComment, MoviePay
 from .forms import UserForm, UserCommentForm, MoviePayForm
 
 class Sign:
+
     ''' 实例化初始值 '''
     def __init__(self, appid, appsecret, url):
         self.appid = appid
