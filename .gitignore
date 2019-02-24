@@ -1,3 +1,5 @@
 # git 提交忽略的文件
 
 *.pyc
+*.idea
+venv_p
